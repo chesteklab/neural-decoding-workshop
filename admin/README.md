@@ -94,6 +94,7 @@ admin/
 - University departments to contact
 
 ## Judging Materials
+Brief overview of competition judging. For more details, refer to the 'judging' folder.
 
 ### What's Included
 
