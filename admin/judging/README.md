@@ -13,7 +13,7 @@ judging/
 ```
 
 ## Judging/Evaluation
-At it's base, this is meant o be an educational experience for the students participating. To this end, we modeled our approach to feedback/judging as an accelerated 'mini-thesis' project. This means that students have multiple opportunities to receive feedback from experts in the field throughout the hackathon, aiming to develop and refine their problem statements and proposed solutions.
+At its base, this is meant o be an educational experience for the students participating. To this end, we modeled our approach to feedback/judging as an accelerated 'mini-thesis' project. This means that students have multiple opportunities to receive feedback from experts in the field throughout the hackathon, aiming to develop and refine their problem statements and proposed solutions.
 
 We suggest holding 2-3 feedback sessions before the final presentation. In these feedback sessions, have students present to a panel (or two) of graduate students (and 1-2 faculty/postdocs). In the first, focus mainly on motivation and setting up the problem, and in the others, help them develop their story and if needed suggest areas that could be explored. None of the students or faculty included in these sessions should be judges at the end of the competition. Here is an example of how these sessions might go:
 
