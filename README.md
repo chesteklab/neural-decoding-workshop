@@ -110,6 +110,4 @@ For questions about running a workshop or using these materials, please refer to
 
 ## Acknowledgments
 
-These materials were developed through the EFRI BRAID program with contributions from numerous instructors, organizers, and participants across multiple workshop iterations from 2023-2025.
-
----
+These materials were developed through the EFRI BRAID program (NSF Grant 2223822) with contributions from the Translational Neuroengineering Lab (led by Vikash Gilja at UCSD), Mishne Lab (led by Gal Mishne at USCD), and Cortical Neural Prosthetics Lab (led by Cynthia Chestek at UM). Also a huge thank you to Vikash Gilja, Sophia Huang, Hisham Temmar, and Olivia Lee for organizing the workshops and compiling this repository.
