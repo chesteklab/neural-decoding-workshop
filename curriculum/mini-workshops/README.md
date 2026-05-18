@@ -54,7 +54,7 @@ Introduction to basic machine learning
 Hodge-podge of tips that don't fit in other presentations. Smoothing neural data, looking at different lags when training decoders, including time history, common average referencing.
 
 ### Neural Decoding Gallery
-Review of approaches for modelling neural data, and basic decoding approaches. Gives students an overview of typical approaches in the field and what kinds of tasks have been done.
+Review of approaches for modelling neural data, and basic decoding approaches. Gives students an overview of typical approaches in the field and what kinds of tasks have been done. For example, in previous years we gave a bit of a 'state of the field' in terms of motor BMIs and speech BMIs.
 
 ### Nonlinear ML Techniques
 Introduction to nonlinear methods and artifical neural networks
