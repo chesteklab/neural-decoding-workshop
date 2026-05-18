@@ -1,6 +1,6 @@
 # Mini-Workshops
 
-This folder contains focused, modular sessions on specific techniques and topics in neural data analysis. Each mini-workshop is designed to be a optional break-out session that can participants can choose to attend.
+This folder contains focused, modular sessions on specific techniques and topics in neural data analysis. Each mini-workshop is designed to be a optional break-out session that can participants can choose to attend. SLIDES AND JUPYTER NOTEBOOKS ARE INCLUDED IN THE FOLDERS ABOVE.
 
 ## Folder Structure
 
