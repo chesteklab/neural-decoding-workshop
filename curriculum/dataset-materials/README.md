@@ -134,7 +134,10 @@ import scipy
 import seaborn as sns
 from sklearn.model_selection import train_test_split
 from sklearn.decomposition import PCA
+from nlb_tools.nwb_interface import NWBDataset
 ```
+
+Note: For the `mc_maze.ipynb` file, consider using the `requirements.txt` file to set up an environment
 
 ### Loading Data
 
