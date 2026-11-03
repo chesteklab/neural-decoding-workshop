@@ -2,6 +2,9 @@
 
 A collection of materials for running a neural decoding workshop, developed through the EFRI-BRAID program from 2023-2025. This repository contains everything needed to organize and conduct a hack-a-thon workshop to introduce undergraduate students to neural decoding, machine learning applications, and brain-computer interfaces.
 
+## Using this repository
+When getting ready to run the workshop, we recommend forking this repository for your own needs, or creating a new repository with only the materials that students will be using. Admin, Templates, and Archive are all organizer facing materials. We also recommend running most of the tutorials through Google Colab for simplicity/less explaining needed, but running things locally is also fine. You should assume some of the participants will have limited coding experience/github experience.
+
 ## Repository Structure
 
 ```
