@@ -1,0 +1,4 @@
+dandi==0.73.2
+matplotlib==3.9.4
+nlb-tools==0.0.4
+numpy<2.0
