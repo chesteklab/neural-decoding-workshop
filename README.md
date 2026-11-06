@@ -95,6 +95,13 @@ source workshop-env/bin/activate  # On Windows: workshop-env\Scripts\activate
 pip install numpy scipy pandas matplotlib scikit-learn jupyter
 ```
 
+Alternatively, create the environment using the conda env yaml file (`environment.yaml`) like so:
+```bash
+conda env create -f environment.yaml
+```
+
+Neither of these methods will be completely comprehensive, each dataset may require specific other packages to function correctly.
+
 ## Contributing
 
 This repository represents years of refinement and community input. If you run a workshop using these materials:
