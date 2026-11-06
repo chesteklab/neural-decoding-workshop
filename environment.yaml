@@ -1,0 +1,12 @@
+name: workshop
+channels:
+  - defaults
+dependencies:
+  - python=3.12
+  - ipykernel
+  - pandas
+  - matplotlib
+  - ipywidgets
+  - scikit-learn
+  - tqdm
+prefix: D:\miniconda3\envs\workshop
